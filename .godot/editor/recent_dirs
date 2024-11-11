@@ -1,0 +1,12 @@
+res://scenes/game-ui
+res://scenes/score
+res://singletons
+res://scenes/level
+res://assets/fonts
+res://scenes/level-button
+res://scenes/main
+res://scenes/cup
+res://singletons/signal_manager
+res://scenes/animal
+res://scenes/water
+res://scenes/tester
